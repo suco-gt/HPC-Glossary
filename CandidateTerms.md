@@ -1,1 +1,14 @@
 ## A List of Terms to Consider Adding.
+- Sharding
+- Reduction
+- Scatter
+- Gather
+- Broadcast
+- Distributed computing
+- Hetergeneous computing
+- Speedup
+- Interconnection topology
+- Thread
+- Barriers
+- Blocking
+- 
