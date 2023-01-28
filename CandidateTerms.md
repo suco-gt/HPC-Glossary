@@ -5,7 +5,7 @@
 - Gather
 - Broadcast
 - Distributed computing
-- Hetergeneous computing
+- Heterogeneous computing
 - Speedup
 - Interconnection topology
 - Thread
